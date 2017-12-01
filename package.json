@@ -1,0 +1,20 @@
+{
+  "name": "dctb-video-streaming-node",
+  "version": "1.0.0",
+  "description": "Just a simple example how to streaming video with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocezar/dctb-video-streaming-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogocezar/dctb-video-streaming-node/issues"
+  },
+  "homepage": "https://github.com/diogocezar/dctb-video-streaming-node#readme"
+}
